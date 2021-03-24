@@ -1,1 +1,2 @@
 Extension line 1
+Extension line 2
